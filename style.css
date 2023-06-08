@@ -32,6 +32,8 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  box-shadow: 5px 5px 15px 2px var(--grayish-blue-color);
+
 }
 
 .qr_code_container {
